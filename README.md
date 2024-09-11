@@ -1,1 +1,1 @@
-# http-email.comms.tripadvisor.com-
+# email.comms.tripadvisor.com
