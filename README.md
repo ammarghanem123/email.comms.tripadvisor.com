@@ -1,1 +1,1 @@
-# email.comms.tripadvisor.com
+# join.plus.tripadvisor.com
